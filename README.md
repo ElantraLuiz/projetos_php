@@ -1,6 +1,6 @@
 # Gerenciador de Tarefas
 
-Este é um projeto de estudo simples em PHP que implementa um **gerenciador de tarefas**. O usuário pode adicionar, editar, excluir e visualizar suas tarefas.
+Este é um projeto de estudo simples em PHP que implementa um **gerenciador de tarefas**.É possível editar, excluir e visualizar suas tarefas.
 
 ## Tecnologias usadas
 
